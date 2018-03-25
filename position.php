@@ -22,6 +22,9 @@ class position{
 $varchar=new position();
 
 
+$xis="hello world";
+
+echo $xis;
 
 
 
