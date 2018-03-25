@@ -7,7 +7,16 @@
  */
 
 
+class position{
 
+
+
+    public $variable;
+
+
+
+
+}
 
 
 
