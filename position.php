@@ -10,8 +10,9 @@
 class position{
 
 
-
+   public $xx="helloworld";
     public $variable;
+
 
 
 
