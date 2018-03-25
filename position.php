@@ -18,6 +18,7 @@ class position{
 
 }
 
+$varchar=new position();
 
 
 
